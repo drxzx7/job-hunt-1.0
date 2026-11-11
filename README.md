@@ -50,7 +50,7 @@ Sixty-nine tailored applications, twenty first interviews, and one signed contra
 
 
 
-## What this is
+## What is job-hunt-1.0 ?
 
 A structured workflow that turns Claude Code into a full-stack job application assistant. Six commands carry you from an empty profile to a tracked result:
 
