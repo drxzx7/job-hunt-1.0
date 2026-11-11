@@ -93,7 +93,7 @@ cd ai-job-search
 ```
 
 ``` powershell
-  git clone https://github.com/drxzx7/job-hunt-1.0.git
+git clone https://github.com/drxzx7/job-hunt-1.0.git
 ```
 
 > [!IMPORTANT]
