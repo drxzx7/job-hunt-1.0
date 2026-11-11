@@ -432,7 +432,7 @@ Thinking about a PR? Read [CONTRIBUTING.md](CONTRIBUTING.md) first - it explains
 
 ## Acknowledgements
 
-- Built by Ahmad Shuaib for the job search CLI skills
+- Built by [Ahmad Shuaib](https://github.com/drxzx7) for the job search CLI skills
 - Built with [Claude Code](https://claude.com/claude-code) by [Anthropic](https://anthropic.com)
 
 ## License
