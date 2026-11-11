@@ -88,8 +88,12 @@ The framework encodes career guidance best practices, including structured evalu
 ### 1. Fork and clone
 
 ```bash
-gh repo fork ai-job-search-dev/ai-job-search --clone
+gh repo fork job-hunt-1.0-dev/job-hunt-1.0 --clone
 cd ai-job-search
+```
+
+``` powershell
+  git clone https://github.com/drxzx7/job-hunt-1.0.git
 ```
 
 > [!IMPORTANT]
